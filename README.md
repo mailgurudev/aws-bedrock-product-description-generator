@@ -45,7 +45,7 @@ Explore different tones, formats, and audiences in the `/prompts` folder.
 
 ## 📘 Blog Article
 
-Read the full breakdown in [`/blog/product_description_ai_bedrock.md`](./blog/product_description_ai_bedrock.md)
+Read the full breakdown in https://dev.to/gurudev_prasadteketi/kickstarting-generative-ai-with-amazon-bedrock-building-a-no-code-product-description-generator-1blh
 
 ## 📜 License
 
