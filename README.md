@@ -32,7 +32,7 @@ Explore different tones, formats, and audiences in the `/prompts` folder.
 
 ## 📸 Screenshots
 
-(https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.07%E2%80%AFAM.png)
+https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/f79dfbe01ee60409e9c1bd41a880eb06140f7c74/screenshots/Screenshot%202025-05-31%20at%2012.08.07%E2%80%AFAM.png
 
 (https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.16%E2%80%AFAM.png)
 
