@@ -1,3 +1,5 @@
+![Project Banner](https://raw.githubusercontent.com/mailgurudev/aws-bedrock-product-description-generator/main/Banner_Image.png)
+
 # 🧠 Product Description Generator using Amazon Bedrock + Claude 3
 
 This project demonstrates how to generate creative product descriptions using Amazon Bedrock and the Claude 3 Sonnet foundation model—all with zero code.
