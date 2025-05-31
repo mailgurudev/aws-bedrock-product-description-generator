@@ -34,6 +34,13 @@ Explore different tones, formats, and audiences in the `/prompts` folder.
 
 ![Screenshot](https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.07%E2%80%AFAM.png?raw=true)
 
+![Screenshot](https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.16%E2%80%AFAM.png?raw=true)
+
+![Screenshot](https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.27%E2%80%AFAM.png?raw=true)
+
+![Screenshot](https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.42%E2%80%AFAM.png?raw=true)
+
+
 ## 📘 Blog Article
 
 Read the full breakdown in [`/blog/product_description_ai_bedrock.md`](./blog/product_description_ai_bedrock.md)
