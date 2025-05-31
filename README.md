@@ -32,14 +32,13 @@ Explore different tones, formats, and audiences in the `/prompts` folder.
 
 ## 📸 Screenshots
 
-[screenshots/Screenshot 2025-05-31 at 12.08.07 AM.png
-](https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.07%E2%80%AFAM.png)
+(https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.07%E2%80%AFAM.png)
 
-https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.16%E2%80%AFAM.png
+(https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.16%E2%80%AFAM.png)
 
-https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.27%E2%80%AFAM.png
+(https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.27%E2%80%AFAM.png)
 
-https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.42%E2%80%AFAM.png
+(https://github.com/mailgurudev/aws-bedrock-product-description-generator/blob/main/screenshots/Screenshot%202025-05-31%20at%2012.08.42%E2%80%AFAM.png)
 
 ## 📘 Blog Article
 
